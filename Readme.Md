@@ -1,5 +1,5 @@
 for contact
-<br> Discord: qae#2229 <br/>
+<br> Discord: qae#1337 <br/>
 
 <!---
 qqae1337/qqae1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
